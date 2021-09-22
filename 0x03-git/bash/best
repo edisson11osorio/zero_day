@@ -1,6 +1,13 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "Best School"
 =======
 echo "This School is so cool!"
 >>>>>>> master
+=======
+
+echo "Best School"
+
+echo "This School is so cool!"
+>>>>>>> 30a2e18329766efecbb00f21cee8d2693c4c502d
